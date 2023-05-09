@@ -4,5 +4,5 @@ $(document).ready(function () { $(window).scroll(function () { if (this.scrollY 
 let resume1 = document.getElementById("resume-button-1")
 resume1.onclick = () => { window.open("https://drive.google.com/file/d/1NV4MeIsP5xwTLgX3Vt7VmA-RhCvXmdKT/view?usp=sharing") }
 
-let resume2 = document.getElementById("resume-link-2")
+let resume2 = document.getElementById("resume-button-2")
 resume2.onclick = () => { window.open("https://drive.google.com/file/d/1NV4MeIsP5xwTLgX3Vt7VmA-RhCvXmdKT/view?usp=sharing") }
