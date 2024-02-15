@@ -92,5 +92,3 @@
 - so we request you to read the problem carefully and debug it before itself
 - we also request you not just submit it last minute
 - try to keep one submission at a time
-
-one
